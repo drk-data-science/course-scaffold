@@ -109,3 +109,4 @@ ENV/
 
 # private
 private
+db.sqlite3
