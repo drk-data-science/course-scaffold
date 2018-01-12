@@ -1,6 +1,6 @@
 # Course Scaffold
 
-This is the scaffolding project for many labs and assignments. You can read the docs at <https://drk-data-science.github.io/course-scaffold/>
+This is the scaffolding project for many labs and assignments. 
 
 This project is preconfigured with all of the necessary files to submit the assignments and get them to successfully build on [TravisCI](https://travis-ci.org)
 
